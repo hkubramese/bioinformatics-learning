@@ -14,3 +14,11 @@ and entry-level positions in bioinformatics.
 ## Progress
 - [ ] Day 1: Setup complete
 - [ ] Day 2: First Python script
+## Progress
+- [x] Day 1: Setup complete — Python, VS Code, Git, GitHub
+- [x] Day 2: nucleotide_counter.py — counts A/T/G/C, calculates GC content
+
+## Scripts
+| File | What it does |
+|------|-------------|
+| nucleotide_counter.py | Counts nucleotides and calculates GC content for DNA sequences |
